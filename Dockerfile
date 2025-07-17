@@ -10,3 +10,4 @@ COPY . .
 EXPOSE 3000
 
 CMD ["npm", "start"]
+# this is docker file 
